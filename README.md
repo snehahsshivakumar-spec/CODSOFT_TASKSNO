@@ -1,43 +1,46 @@
-# CodSoft Data Analytics Internship - Task 3
+# CodSoft Data Analytics Internship
 
-## Data Visualization Dashboard
+This repository contains my completed tasks for the CodSoft Data Analytics Internship.
 
-### Dataset
+## Tasks Completed
 
-Retail Sales Data
+### Task 1 - Data Cleaning & Preprocessing
 
-### Objective
+- Cleaned and preprocessed the retail sales dataset.
+- Handled missing values and duplicate records.
+- Standardized inconsistent data entries.
+- Converted data into appropriate data types.
+- Saved the cleaned dataset.
 
-The objective of this task is to create a meaningful and easy-to-understand data visualization dashboard using Power BI.
+Folder: `TASK_1_DATA_CLEANING`
 
-### Visualizations Created
+### Task 2 - Exploratory Data Analysis (EDA)
 
-- Total Sales KPI
-- Total Transactions KPI
-- Total Quantity KPI
-- Average Unit Price KPI
-- Sales by Payment Method
-- Sales Trend Over Time
-- Quantity by Category
-- Unit Price vs Quantity by Category
-- Sales by Category
+- Analyzed retail sales data using descriptive analysis.
+- Studied sales, quantity, categories, payment methods, and trends.
+- Created visualizations to identify patterns and relationships.
 
-### Key Insights
+Folder: `TASK_2_EDA`
 
-- Total sales are approximately ₹96K.
-- The dataset contains 40 transactions.
-- A total of 84 units were sold.
-- The average unit price is approximately ₹1.17K.
-- Electronics contributes the highest sales among the categories.
-- Sales vary across different payment methods.
-- Sales show variation across different dates.
+### Task 3 - Data Visualization Dashboard
 
-### Tools Used
+- Created an interactive retail sales dashboard using Power BI.
+- Included KPI cards, sales trends, category analysis, payment method analysis, and other visualizations.
 
+Folder: `TASK_3_DATA_VISUALIZATION`
+
+## Tools Used
+
+- Python
+- Pandas
+- Jupyter Notebook
 - Power BI
 - Data Visualization
-- Retail Sales Dataset
 
-### File Included
+## Dataset
 
-- `TASK_3_DASHBOARD.pbix` - Power BI dashboard containing the visualizations and analysis.
+Retail Sales Dataset
+
+## Internship
+
+CodSoft Data Analytics Internship
